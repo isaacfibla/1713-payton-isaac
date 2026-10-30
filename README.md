@@ -1,2 +1,2 @@
-# 1713-payton-isaac
-print("Hello, World!")
+# Comencem a treballar amb Git!
+Primeres passes...
